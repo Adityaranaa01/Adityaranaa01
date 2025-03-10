@@ -1,6 +1,6 @@
 🚀 Aspiring Full-Stack Developer | 2nd-Year CSE Student | Passionate About Web Development & Problem-Solving
 
-Hi! I’m [Your Name], a second-year Computer Science and Engineering student with a strong interest in full-stack development. I love building scalable, user-friendly web applications and constantly improving my skills in JavaScript, React, Node.js, and databases.
+Hi! I’m Aditya, a second-year Computer Science and Engineering student with a strong interest in full-stack development. I love building scalable, user-friendly web applications and constantly improving my skills in JavaScript, React, Node.js, and databases.
 
 Currently, I'm honing my front-end and back-end development skills while exploring best practices in software engineering. I enjoy solving coding challenges, contributing to projects, and learning new technologies that enhance my problem-solving abilities.
 
